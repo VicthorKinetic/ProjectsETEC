@@ -1,0 +1,9 @@
+C:\Users\Alexandre\Desktop\prjExercicico57\prjExercicico57\bin\Debug\prjExercicico57.exe
+C:\Users\Alexandre\Desktop\prjExercicico57\prjExercicico57\bin\Debug\prjExercicico57.pdb
+C:\Users\Alexandre\Desktop\prjExercicico57\prjExercicico57\obj\x86\Debug\prjExercicico57.exe
+C:\Users\Alexandre\Desktop\prjExercicico57\prjExercicico57\obj\x86\Debug\prjExercicico57.pdb
+G:\Logica\Lista Nova\prjExercicio57\prjExercicico57\obj\x86\Debug\prjExercicico57.exe
+G:\Logica\Lista Nova\prjExercicio57\prjExercicico57\obj\x86\Debug\prjExercicico57.pdb
+G:\Logica\Lista Nova\prjExercicio57\prjExercicico57\bin\Debug\prjExercicico57.exe
+G:\Logica\Lista Nova\prjExercicio57\prjExercicico57\bin\Debug\prjExercicico57.pdb
+G:\Logica\Lista Nova\prjExercicio57\prjExercicico57\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+M:\prjExercicios\prjExercicio16\prjExercicio16\bin\Debug\prjExercicio16.exe
+M:\prjExercicios\prjExercicio16\prjExercicio16\bin\Debug\prjExercicio16.pdb
+M:\prjExercicios\prjExercicio16\prjExercicio16\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\prjExercicios\prjExercicio16\prjExercicio16\obj\x86\Debug\prjExercicio16.exe
+M:\prjExercicios\prjExercicio16\prjExercicio16\obj\x86\Debug\prjExercicio16.pdb
+F:\prjExercicios\prjExercicio16\prjExercicio16\obj\x86\Debug\prjExercicio16.exe
+F:\prjExercicios\prjExercicio16\prjExercicio16\obj\x86\Debug\prjExercicio16.pdb
+F:\prjExercicios\prjExercicio16\prjExercicio16\bin\Debug\prjExercicio16.exe
+F:\prjExercicios\prjExercicio16\prjExercicio16\bin\Debug\prjExercicio16.pdb

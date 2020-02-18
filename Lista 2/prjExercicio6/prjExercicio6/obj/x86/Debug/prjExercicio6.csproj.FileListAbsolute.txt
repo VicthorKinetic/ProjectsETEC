@@ -1,0 +1,4 @@
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio6\prjExercicio6\bin\Debug\prjExercicio6.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio6\prjExercicio6\bin\Debug\prjExercicio6.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio6\prjExercicio6\obj\x86\Debug\prjExercicio6.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio6\prjExercicio6\obj\x86\Debug\prjExercicio6.pdb

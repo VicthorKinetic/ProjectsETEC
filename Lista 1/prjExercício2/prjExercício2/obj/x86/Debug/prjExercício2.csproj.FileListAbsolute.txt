@@ -1,0 +1,4 @@
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício2\prjExercício2\bin\Debug\prjExercício2.exe
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício2\prjExercício2\bin\Debug\prjExercício2.pdb
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício2\prjExercício2\obj\x86\Debug\prjExercício2.exe
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício2\prjExercício2\obj\x86\Debug\prjExercício2.pdb

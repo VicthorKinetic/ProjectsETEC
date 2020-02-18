@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\prjExercicio50\prjExercicio50\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\prjExercicio50\prjExercicio50\bin\Debug\prjExercicio50.exe
+C:\Users\aluno\Desktop\prjExercicio50\prjExercicio50\bin\Debug\prjExercicio50.pdb
+C:\Users\aluno\Desktop\prjExercicio50\prjExercicio50\obj\x86\Debug\prjExercicio50.exe
+C:\Users\aluno\Desktop\prjExercicio50\prjExercicio50\obj\x86\Debug\prjExercicio50.pdb

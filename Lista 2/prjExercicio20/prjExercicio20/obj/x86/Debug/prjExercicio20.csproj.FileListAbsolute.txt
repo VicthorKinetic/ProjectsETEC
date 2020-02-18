@@ -1,0 +1,7 @@
+L:\ \ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\ \ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\bin\Debug\prjExercicio20.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\bin\Debug\prjExercicio20.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\obj\x86\Debug\prjExercicio20.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\obj\x86\Debug\prjExercicio20.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\obj\x86\Debug\prjExercicio20.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio20\prjExercicio20\obj\x86\Debug\prjExercicio20.pdb

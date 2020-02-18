@@ -1,0 +1,7 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercicio33\prjExercicio33\bin\Debug\prjExercicio33.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio33\prjExercicio33\bin\Debug\prjExercicio33.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercicio33\prjExercicio33\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercicio33\prjExercicio33\obj\x86\Debug\prjExercicio33.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio33\prjExercicio33\obj\x86\Debug\prjExercicio33.pdb
+K:\ETEC\Projetos\Lista 2\prjExercicio33\prjExercicio33\obj\x86\Debug\prjExercicio33.exe
+K:\ETEC\Projetos\Lista 2\prjExercicio33\prjExercicio33\obj\x86\Debug\prjExercicio33.pdb

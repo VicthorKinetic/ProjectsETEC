@@ -1,0 +1,5 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercicio29\prjExercicio29\bin\Debug\prjExercicio29.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio29\prjExercicio29\bin\Debug\prjExercicio29.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercicio29\prjExercicio29\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercicio29\prjExercicio29\obj\x86\Debug\prjExercicio29.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio29\prjExercicio29\obj\x86\Debug\prjExercicio29.pdb

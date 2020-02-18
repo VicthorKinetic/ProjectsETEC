@@ -1,0 +1,4 @@
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício8\prjExercício8\bin\Debug\prjExercício8.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício8\prjExercício8\bin\Debug\prjExercício8.pdb
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício8\prjExercício8\obj\x86\Debug\prjExercício8.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício8\prjExercício8\obj\x86\Debug\prjExercício8.pdb

@@ -1,0 +1,11 @@
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\bin\Debug\prjExercicio26.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\bin\Debug\prjExercicio26.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\bin\Debug\prjExercicio26.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\bin\Debug\prjExercicio26.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio26\prjExercicio26\obj\x86\Debug\prjExercicio26.pdb

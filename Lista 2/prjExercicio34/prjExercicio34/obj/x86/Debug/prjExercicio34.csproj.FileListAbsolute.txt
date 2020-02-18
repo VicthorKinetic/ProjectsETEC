@@ -1,0 +1,9 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercicio34\prjExercicio34\bin\Debug\prjExercicio34.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio34\prjExercicio34\bin\Debug\prjExercicio34.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercicio34\prjExercicio34\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercicio34\prjExercicio34\obj\x86\Debug\prjExercicio34.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio34\prjExercicio34\obj\x86\Debug\prjExercicio34.pdb
+J:\ETEC\Projetos\Lista 2\prjExercicio34\prjExercicio34\obj\x86\Debug\prjExercicio34.exe
+J:\ETEC\Projetos\Lista 2\prjExercicio34\prjExercicio34\obj\x86\Debug\prjExercicio34.pdb
+J:\ETEC\Projetos\Lista 2\prjExercicio34\prjExercicio34\bin\Debug\prjExercicio34.exe
+J:\ETEC\Projetos\Lista 2\prjExercicio34\prjExercicio34\bin\Debug\prjExercicio34.pdb

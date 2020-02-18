@@ -1,0 +1,9 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercicio27\prjExercicio27\bin\Debug\prjExercicio27.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio27\prjExercicio27\bin\Debug\prjExercicio27.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercicio27\prjExercicio27\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.pdb
+L:\ \ETEC\Logica\Lista Nova\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.exe
+L:\ \ETEC\Logica\Lista Nova\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio27\prjExercicio27\obj\x86\Debug\prjExercicio27.pdb

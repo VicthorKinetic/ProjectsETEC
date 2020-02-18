@@ -1,0 +1,9 @@
+C:\Users\29841\Desktop\prjExercicio51\prjExercicio51\bin\Debug\prjExercicio51.exe
+C:\Users\29841\Desktop\prjExercicio51\prjExercicio51\bin\Debug\prjExercicio51.pdb
+C:\Users\29841\Desktop\prjExercicio51\prjExercicio51\obj\x86\Debug\prjExercicio51.exe
+C:\Users\29841\Desktop\prjExercicio51\prjExercicio51\obj\x86\Debug\prjExercicio51.pdb
+G:\Logica\Lista Nova\prjExercicio51\prjExercicio51\obj\x86\Debug\prjExercicio51.exe
+G:\Logica\Lista Nova\prjExercicio51\prjExercicio51\obj\x86\Debug\prjExercicio51.pdb
+G:\Logica\Lista Nova\prjExercicio51\prjExercicio51\bin\Debug\prjExercicio51.exe
+G:\Logica\Lista Nova\prjExercicio51\prjExercicio51\bin\Debug\prjExercicio51.pdb
+G:\Logica\Lista Nova\prjExercicio51\prjExercicio51\obj\x86\Debug\ResolveAssemblyReference.cache

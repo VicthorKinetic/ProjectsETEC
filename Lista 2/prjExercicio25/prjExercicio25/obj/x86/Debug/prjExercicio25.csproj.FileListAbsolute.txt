@@ -1,0 +1,9 @@
+L:\ \ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\bin\Debug\prjExercicio25.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\bin\Debug\prjExercicio25.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\ \ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\obj\x86\Debug\prjExercicio25.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\obj\x86\Debug\prjExercicio25.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\obj\x86\Debug\prjExercicio25.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\obj\x86\Debug\prjExercicio25.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\bin\Debug\prjExercicio25.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio25\prjExercicio25\bin\Debug\prjExercicio25.pdb

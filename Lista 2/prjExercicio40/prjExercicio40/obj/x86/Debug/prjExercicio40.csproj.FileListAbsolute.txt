@@ -1,0 +1,4 @@
+H:\ETEC\Projetos\Lista 2\prjExercicio40\prjExercicio40\bin\Debug\prjExercicio40.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio40\prjExercicio40\bin\Debug\prjExercicio40.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio40\prjExercicio40\obj\x86\Debug\prjExercicio40.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio40\prjExercicio40\obj\x86\Debug\prjExercicio40.pdb

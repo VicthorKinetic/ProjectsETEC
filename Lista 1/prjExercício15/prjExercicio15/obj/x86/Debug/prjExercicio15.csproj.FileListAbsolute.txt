@@ -1,0 +1,7 @@
+M:\prjExercicios\prjExercicio15\prjExercicio15\bin\Debug\prjExercicio15.exe
+M:\prjExercicios\prjExercicio15\prjExercicio15\bin\Debug\prjExercicio15.pdb
+M:\prjExercicios\prjExercicio15\prjExercicio15\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\prjExercicios\prjExercicio15\prjExercicio15\obj\x86\Debug\prjExercicio15.exe
+M:\prjExercicios\prjExercicio15\prjExercicio15\obj\x86\Debug\prjExercicio15.pdb
+F:\prjExercicios\prjExercicio15\prjExercicio15\obj\x86\Debug\prjExercicio15.exe
+F:\prjExercicios\prjExercicio15\prjExercicio15\obj\x86\Debug\prjExercicio15.pdb

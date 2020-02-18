@@ -1,0 +1,6 @@
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\bin\Debug\prjExercicio18.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\bin\Debug\prjExercicio18.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\obj\x86\Debug\prjExercicio18.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\obj\x86\Debug\prjExercicio18.pdb
+L:\ \ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\obj\x86\Debug\prjExercicio18.exe
+L:\ \ETEC\Projetos\Lista 2\prjExercicio18\prjExercicio18\obj\x86\Debug\prjExercicio18.pdb

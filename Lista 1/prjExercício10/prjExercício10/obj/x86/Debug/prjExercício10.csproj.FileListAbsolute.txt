@@ -1,0 +1,6 @@
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício10\prjExercício10\bin\Debug\prjExercício10.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício10\prjExercício10\bin\Debug\prjExercício10.pdb
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício10\prjExercício10\obj\x86\Debug\prjExercício10.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício10\prjExercício10\obj\x86\Debug\prjExercício10.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\prjExercício10\prjExercício10\obj\x86\Debug\prjExercício10.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\prjExercício10\prjExercício10\obj\x86\Debug\prjExercício10.pdb

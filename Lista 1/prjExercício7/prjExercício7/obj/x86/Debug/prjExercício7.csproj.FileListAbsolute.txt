@@ -1,0 +1,15 @@
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício7\prjExercício7\bin\Debug\prjExercício7.exe
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício7\prjExercício7\bin\Debug\prjExercício7.pdb
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.exe
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.pdb
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.csprojResolveAssemblyReference.cache
+L:\ \ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.exe
+L:\ \ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.pdb
+L:\ \ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\bin\Debug\prjExercício7.exe
+L:\ \ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\bin\Debug\prjExercício7.pdb
+L:\ \ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\bin\Debug\prjExercício7.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\bin\Debug\prjExercício7.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Projetos\Lista 1\prjExercício7\prjExercício7\obj\x86\Debug\prjExercício7.csprojResolveAssemblyReference.cache

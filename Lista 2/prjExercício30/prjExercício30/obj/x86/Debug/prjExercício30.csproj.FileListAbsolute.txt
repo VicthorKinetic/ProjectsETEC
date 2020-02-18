@@ -1,0 +1,15 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercício30\prjExercício30\bin\Debug\prjExercício30.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercício30\prjExercício30\bin\Debug\prjExercício30.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercício30\prjExercício30\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.pdb
+L:\ \ETEC\Logica\Lista Nova\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.exe
+L:\ \ETEC\Logica\Lista Nova\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.pdb
+K:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.exe
+K:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.pdb
+K:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\bin\Debug\prjExercício30.exe
+K:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\bin\Debug\prjExercício30.pdb
+H:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.exe
+H:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\obj\x86\Debug\prjExercício30.pdb
+H:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\bin\Debug\prjExercício30.exe
+H:\ETEC\Projetos\Lista 2\prjExercício30\prjExercício30\bin\Debug\prjExercício30.pdb

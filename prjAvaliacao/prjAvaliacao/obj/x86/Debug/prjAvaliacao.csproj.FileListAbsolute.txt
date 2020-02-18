@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\prjAvaliacao\prjAvaliacao\bin\Debug\prjAvaliacao.exe
+C:\Users\aluno\Desktop\prjAvaliacao\prjAvaliacao\bin\Debug\prjAvaliacao.pdb
+C:\Users\aluno\Desktop\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.exe
+C:\Users\aluno\Desktop\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.pdb
+C:\Users\aluno\Desktop\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.csprojResolveAssemblyReference.cache
+K:\ETEC\Projetos\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.exe
+K:\ETEC\Projetos\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.pdb
+K:\ETEC\Projetos\prjAvaliacao\prjAvaliacao\bin\Debug\prjAvaliacao.exe
+K:\ETEC\Projetos\prjAvaliacao\prjAvaliacao\bin\Debug\prjAvaliacao.pdb
+K:\ETEC\Projetos\prjAvaliacao\prjAvaliacao\obj\x86\Debug\prjAvaliacao.csprojResolveAssemblyReference.cache

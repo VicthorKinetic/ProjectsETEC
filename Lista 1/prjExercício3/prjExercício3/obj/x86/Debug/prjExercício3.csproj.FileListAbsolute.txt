@@ -1,0 +1,5 @@
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício3\prjExercício3\bin\Debug\prjExercício3.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício3\prjExercício3\bin\Debug\prjExercício3.pdb
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício3\prjExercício3\obj\x86\Debug\prjExercício3.exe
+c:\users\mariangela\documents\visual studio 2010\Projects\prjExercício3\prjExercício3\obj\x86\Debug\prjExercício3.pdb
+C:\Users\Mariangela\Documents\Visual Studio 2010\Projects\prjExercício3\prjExercício3\obj\x86\Debug\prjExercício3.csprojResolveAssemblyReference.cache

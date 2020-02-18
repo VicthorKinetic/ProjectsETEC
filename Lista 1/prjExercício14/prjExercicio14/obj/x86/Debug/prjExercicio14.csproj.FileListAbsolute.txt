@@ -1,0 +1,7 @@
+M:\prjExercicios\prjExercicio14\prjExercicio14\bin\Debug\prjExercicio14.exe
+M:\prjExercicios\prjExercicio14\prjExercicio14\bin\Debug\prjExercicio14.pdb
+M:\prjExercicios\prjExercicio14\prjExercicio14\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\prjExercicios\prjExercicio14\prjExercicio14\obj\x86\Debug\prjExercicio14.exe
+M:\prjExercicios\prjExercicio14\prjExercicio14\obj\x86\Debug\prjExercicio14.pdb
+F:\prjExercicios\prjExercicio14\prjExercicio14\obj\x86\Debug\prjExercicio14.exe
+F:\prjExercicios\prjExercicio14\prjExercicio14\obj\x86\Debug\prjExercicio14.pdb

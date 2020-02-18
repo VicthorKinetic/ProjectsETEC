@@ -1,0 +1,17 @@
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prjExercicio37\prjExercicio37\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.pdb
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.pdb
+D:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.exe
+D:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.pdb
+K:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.exe
+K:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.pdb
+K:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.exe
+K:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.pdb
+J:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.exe
+J:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.pdb
+J:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.exe
+J:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\bin\Debug\prjExercicio37.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio37\prjExercicio37\obj\x86\Debug\prjExercicio37.pdb

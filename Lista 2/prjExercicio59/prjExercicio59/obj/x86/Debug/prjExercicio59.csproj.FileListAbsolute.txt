@@ -1,0 +1,9 @@
+C:\Users\29841\Desktop\prjExercicio59\prjExercicio59\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\29841\Desktop\prjExercicio59\prjExercicio59\bin\Debug\prjExercicio59.exe
+C:\Users\29841\Desktop\prjExercicio59\prjExercicio59\bin\Debug\prjExercicio59.pdb
+C:\Users\29841\Desktop\prjExercicio59\prjExercicio59\obj\x86\Debug\prjExercicio59.exe
+C:\Users\29841\Desktop\prjExercicio59\prjExercicio59\obj\x86\Debug\prjExercicio59.pdb
+F:\ETEC\Projetos\Lista 2\prjExercicio59\prjExercicio59\obj\x86\Debug\prjExercicio59.exe
+F:\ETEC\Projetos\Lista 2\prjExercicio59\prjExercicio59\obj\x86\Debug\prjExercicio59.pdb
+F:\ETEC\Projetos\Lista 2\prjExercicio59\prjExercicio59\bin\Debug\prjExercicio59.exe
+F:\ETEC\Projetos\Lista 2\prjExercicio59\prjExercicio59\bin\Debug\prjExercicio59.pdb

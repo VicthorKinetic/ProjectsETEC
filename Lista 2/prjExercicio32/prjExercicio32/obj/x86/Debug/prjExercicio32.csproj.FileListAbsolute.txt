@@ -1,0 +1,14 @@
+C:\Users\aluno.ETECAF\Desktop\prjExercicio32\prjExercicio32\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.pdb
+C:\Users\aluno.ETECAF\Desktop\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.exe
+C:\Users\aluno.ETECAF\Desktop\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.pdb
+D:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.exe
+D:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.pdb
+D:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.exe
+D:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.pdb
+D:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.exe
+K:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\obj\x86\Debug\prjExercicio32.pdb
+K:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.exe
+K:\ETEC\Projetos\Lista 2\prjExercicio32\prjExercicio32\bin\Debug\prjExercicio32.pdb

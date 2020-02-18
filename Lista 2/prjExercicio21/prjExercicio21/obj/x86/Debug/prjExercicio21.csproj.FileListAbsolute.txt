@@ -1,0 +1,5 @@
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio21\prjExercicio21\bin\Debug\prjExercicio21.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio21\prjExercicio21\bin\Debug\prjExercicio21.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio21\prjExercicio21\obj\x86\Debug\prjExercicio21.exe
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio21\prjExercicio21\obj\x86\Debug\prjExercicio21.pdb
+C:\Users\Mariangela\Desktop\Trabalhos\ETEC\Projetos\Lista 2\prjExercicio21\prjExercicio21\obj\x86\Debug\prjExercicio21.csprojResolveAssemblyReference.cache

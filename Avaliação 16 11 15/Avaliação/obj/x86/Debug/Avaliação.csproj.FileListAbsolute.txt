@@ -1,0 +1,22 @@
+C:\Users\aluno\Desktop\Avaliação\Avaliação\bin\Debug\Avaliação.exe
+C:\Users\aluno\Desktop\Avaliação\Avaliação\bin\Debug\Avaliação.pdb
+C:\Users\aluno\Desktop\Avaliação\Avaliação\obj\x86\Debug\Avaliação.exe
+C:\Users\aluno\Desktop\Avaliação\Avaliação\obj\x86\Debug\Avaliação.pdb
+H:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.exe
+H:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.pdb
+G:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.exe
+G:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.pdb
+I:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.exe
+I:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.pdb
+I:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.exe
+I:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.pdb
+H:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.exe
+H:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.pdb
+G:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.exe
+G:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.pdb
+G:\ETEC\Lógica\LógicaPrática\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.csprojResolveAssemblyReference.cache
+C:\Users\30635\Desktop\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.exe
+C:\Users\30635\Desktop\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.pdb
+C:\Users\30635\Desktop\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.exe
+C:\Users\30635\Desktop\Avaliação 16 11 15\Avaliação\bin\Debug\Avaliação.pdb
+C:\Users\30635\Desktop\Avaliação 16 11 15\Avaliação\obj\x86\Debug\Avaliação.csprojResolveAssemblyReference.cache

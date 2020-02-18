@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\prjExercicio38\prjExercicio38\bin\Debug\prjExercicio38.exe
+C:\Users\aluno\Desktop\prjExercicio38\prjExercicio38\bin\Debug\prjExercicio38.pdb
+C:\Users\aluno\Desktop\prjExercicio38\prjExercicio38\obj\x86\Debug\prjExercicio38.exe
+C:\Users\aluno\Desktop\prjExercicio38\prjExercicio38\obj\x86\Debug\prjExercicio38.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio38\prjExercicio38\obj\x86\Debug\prjExercicio38.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio38\prjExercicio38\obj\x86\Debug\prjExercicio38.pdb
+H:\ETEC\Projetos\Lista 2\prjExercicio38\prjExercicio38\bin\Debug\prjExercicio38.exe
+H:\ETEC\Projetos\Lista 2\prjExercicio38\prjExercicio38\bin\Debug\prjExercicio38.pdb
